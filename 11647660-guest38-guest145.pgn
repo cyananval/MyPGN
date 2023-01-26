@@ -1,0 +1,16 @@
+[Event "Challenge"]
+[Site "?"]
+[Date "2023.01.23"]
+[Round "?"]
+[White "guest38"]
+[Black "guest145"]
+[Result "*"]
+[WhiteELO "1600"]
+[BlackELO "800"]
+[TimeControlLocalized "10'"]
+[RatingTypeLocalized "Blitz (not rated)"]
+[DateTime "20:24"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+
+ 1.e4 c5 2.Nc3 Nc6 3.Nge2 e6 4.d4 cxd4 5.Nxd4 a6 6.Be3 h6 7.f4 Bb4 8.Nxc6 Bxc3+ 9.bxc3 bxc6 10.Qd6 Ne7 11.c4 O-O 12.Bd3 Bb7 13.Qb4 Rb8 14.Bb6 Qe8 15.Bc5 Ba8 16.Qa3 *

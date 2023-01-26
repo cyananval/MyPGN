@@ -1,0 +1,29 @@
+[Event "vs Computer"]
+[Site "Chess.com"]
+[Date "2023.01.25"]
+[Round "-"]
+[White "cyananval"]
+[Black "Komodo10"]
+[Result "1-0"]
+[CurrentPosition "4R1k1/1pp3p1/p2p4/n3p2Q/2P1P3/3PP3/PP1N4/4K3 b - - 4 36"]
+[Timezone "UTC"]
+[ECO "C23"]
+[ECOUrl "https://www.chess.com/openings/Bishops-Opening"]
+[UTCDate "2023.01.25"]
+[UTCTime "11:16:35"]
+[WhiteElo "1398"]
+[BlackElo "1400"]
+[TimeControl "1/0"]
+[Termination "cyananval won by checkmate"]
+[StartTime "11:16:35"]
+[EndDate "2023.01.25"]
+[EndTime "11:40:03"]
+[Link "https://www.chess.com/game/computer/35072951"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. d3 Nf6 5. Be3 Bxe3 6. fxe3 O-O 7. O-O d6 8. h3
+Be6 9. Bxe6 fxe6 10. Ng5 Re8 11. Nd2 Qe7 12. h4 h6 13. Ngf3 Qd7 14. c4 Rf8 15.
+Qa4 Qf7 16. Kf2 Nh5 17. Rh1 Qg6 18. g4 Qxg4 19. Rag1 a6 20. Rxg4 Rf6 21. Ke1
+Raf8 22. Rf1 R6f7 23. Rg6 Kh7 24. Rxe6 Nf6 25. Ng5+ hxg5 26. hxg5 Nh5 27. Rh1
+Kg8 28. Rxh5 Na7 29. g6 Rf2 30. Qd7 Nc6 31. Rh7 R2f7 32. gxf7+ (32. Qxf7+ Rxf7
+33. gxf7+ Kxh7 34. f8=Q Ne7 35. Qxe7) 32... Kxh7 33. Qe8 Rxe8 34. fxe8=Q Na5 35.
+Qh5+ (35. Qg6+) 35... Kg8 36. Re8# (36. Qg6) 1-0

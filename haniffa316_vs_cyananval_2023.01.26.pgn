@@ -1,0 +1,17 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2023.01.26"]
+[Round "?"]
+[White "haniffa316"]
+[Black "cyananval"]
+[Result "0-1"]
+[TimeControl "3600"]
+[WhiteElo "1307"]
+[BlackElo "1447"]
+[Termination "cyananval 將殺獲勝"]
+
+1. e4 d5 2. e5 Nc6 3. d4 Bf5 4. a3 e6 5. h3 f6 6. exf6 gxf6 7. Qh5+ Bg6 8. Qg4
+Qd7 9. Bb5 O-O-O 10. Nc3 a6 11. Ba4 e5 12. Qe2 Nxd4 13. Bxd7+ Rxd7 14. Qd2 Nxc2+
+15. Kd1 Nxa1 16. Nf3 Nb3 17. Qe2 d4 18. Na2 Bb1 19. Nb4 Bxb4 20. axb4 Bg6 21.
+Qc4 Nxc1 22. Qxc1 Bd3 23. Qd2 e4 24. Ne1 Bb5 25. Kc1 d3 26. f3 e3 27. Qc3 d2+
+28. Kd1 e2+ 29. Kc2 d1=Q# 0-1
